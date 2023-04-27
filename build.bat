@@ -1,0 +1,1 @@
+cmake --no-warn-unused-cli -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -SD:/luawithsocket -B./build -G "Visual Studio 16 2019" -T host=x64 -A x64
